@@ -1,0 +1,10 @@
+keras
+keras-metrics
+numpy
+scipy
+librosa
+pandas
+scikit-learn
+matplotlib
+pyaudio
+
